@@ -1,0 +1,160 @@
+body {
+  padding: 200px;
+  font-family: "Helvetica";
+  text-align: center;
+}
+
+html#index {
+  background-image: url(https://intotheoutdoors.files.wordpress.com/2012/09/victor-barn.jpg);
+  background-size: cover;
+}
+
+#rectangle-index {
+  width: 350px;
+  height: 180px;
+  background: white;
+  opacity: 0.7;
+  margin: auto;
+  border-radius: 10px;
+  padding-top: 5px;
+}
+
+html#kick {
+  background-image: url(https://ttriolo.files.wordpress.com/2010/10/1010_indianfest_050.jpg);
+  background-size: cover;
+}
+
+#rectangle-kick {
+  width: 350px;
+  height: 210px;
+  background: white;
+  opacity: 0.7;
+  margin: auto;
+  border-radius: 10px;
+  padding-top: 3px;
+}
+
+html#punch {
+  background-image: url(https://ttriolo.files.wordpress.com/2010/10/1010_indianfest_050.jpg);
+  background-size: cover;
+}
+
+#rectangle-punch {
+  width: 350px;
+  height: 210px;
+  background: white;
+  opacity: 0.7;
+  margin: auto;
+  border-radius: 10px;
+  padding-top: 3px;
+}
+
+html#head {
+  background-image: url(https://ttriolo.files.wordpress.com/2010/10/1010_indianfest_050.jpg);
+  background-size: cover;
+}
+
+#rectangle-head {
+  width: 350px;
+  height: 230px;
+  background: white;
+  opacity: 0.7;
+  margin: auto;
+  border-radius: 10px;
+  padding-top: 5px;
+}
+
+html#pliers {
+  background-image: url(https://c1.staticflickr.com/3/2871/9377521853_57bfbb8768_b.jpg);
+  background-size: cover;
+}
+
+#rectangle-pliers {
+  width: 350px;
+  height: 210px;
+  background: white;
+  opacity: 0.7;
+  margin: auto;
+  border-radius: 10px;
+  padding-top: 3px;
+}
+
+html#house {
+  background-image: url(http://www.pxleyes.com/images/contests/abandoned%20buildings/fullsize/abandoned%20buildings_4c290dbfd836b_hires.jpg);
+  background-size: cover;
+}
+
+#rectangle-house {
+  width: 350px;
+  height: 245px;
+  background: white;
+  opacity: 0.8;
+  margin: auto;
+  border-radius: 10px;
+  padding-top: 5px;
+}
+
+html#garage {
+  background-image: url(http://media.indiedb.com/images/articles/1/110/109016/auto/34i03si.png);
+  background-size: cover;
+}
+
+#rectangle-garage {
+  width: 350px;
+  height: 180px;
+  background: white;
+  opacity: 0.7;
+  margin: auto;
+  border-radius: 10px;
+  padding-top: 3px;
+}
+
+html#harley {
+  background-image: url(http://i.ndtvimg.com/i/2016-01/harley-davidson-iron-883-dark-custom_827x510_81452259987.jpg);
+  background-size: cover;
+}
+
+#rectangle-harley {
+  width: 570px;
+  height: 210px;
+  background: white;
+  opacity: 0.7;
+  margin: auto;
+  border-radius: 10px;
+  padding-top: 3px;
+}
+
+html#truck {
+  background-image: url(http://cache3.asset-cache.net/xd/548908741.jpg?v=1&c=IWSAsset&k=2&d=92C214394B8C98586CACC3DD5C5D7E975145F92974FB5D86C6B5ED04DA4B81A4118F01AE94491AFE);
+  background-size: cover;
+}
+
+#rectangle-truck {
+  width: 480px;
+  height: 180px;
+  background: white;
+  opacity: 0.7;
+  margin: auto;
+  border-radius: 10px;
+  padding-top: 1px;
+}
+
+
+
+span.a {
+  display: inline-block;
+  font-weight: bold;
+  text-align: left;
+}
+
+span.b {
+  display: inline-block;
+  font-weight: bold;
+  text-align: right;
+}
+
+
+
+
+
+
